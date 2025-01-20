@@ -12,6 +12,6 @@ Hi, I'm a **Senior Computer Engineer** and **Freelance Full Stack Developer** wi
 🌱 I’m passionate about building modern, user-centric applications and leveraging advanced AI technologies to create impactful solutions.  
 
 📫 **Contact Me**  
-Feel free to reach out for freelance projects or collaborations:  
+Feel free to reach out for freelance projects or collaborations.:  
 
 **Email**: engineerriddick@gmail.com  
