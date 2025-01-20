@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @engineerriddick
-- 👀 I’m interested in Swift ,Android ,Flutter and ux/ui design
-- 🌱 I’m currently learning flutter webview and native
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me, my email : engineerriddick@gmail.com
+# 👋 About Me
 
-<!---
-engineerriddick/engineerriddick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I'm a **Senior Computer Engineer** and **Freelance Full Stack Developer** with over **10 years of experience** in software development. I specialize in:  
+- ✨ **Mobile Development**: Swift, Flutter  
+- ✨ **Frontend UX/UI Design**  
+- ✨ **Backend Development**: Python, Node.js  
+- ✨ **AI and Machine Learning**: Computer Vision, Training AI LLM Models  
+- ✨ **Cryptographic Implementation**: Master's degree in cryptography on ARM architecture  
+
+💞️ **This GitHub account** is primarily for my personal projects and experiments. You may not see frequent commits here, as it is not dedicated to my professional freelance work.  
+
+🌱 I’m passionate about building modern, user-centric applications and leveraging advanced AI technologies to create impactful solutions.  
+
+📫 **Contact Me**  
+Feel free to reach out for freelance projects or collaborations:  
+
+**Email**: engineerriddick@gmail.com  
